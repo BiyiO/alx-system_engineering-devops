@@ -9,4 +9,5 @@
 (9)create a script that sets the permission to the file hello; no permission to owner and group, but others
 (10)create a file that will set this mode -rwxr-x-wx
 (11) script that sets the mode of the file hello the same as olleh’s mode.
-(12)Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users 
+(12)Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+(13)Create a script that creates a directory called mydir with permissions 751 in the working directory. 
